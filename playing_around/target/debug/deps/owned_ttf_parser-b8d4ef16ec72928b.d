@@ -1,0 +1,10 @@
+/home/lmurraykearney/Flocks/rust_practice/playing_around/target/debug/deps/owned_ttf_parser-b8d4ef16ec72928b.rmeta: /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/lib.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/convert.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/owned.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/preparse.rs
+
+/home/lmurraykearney/Flocks/rust_practice/playing_around/target/debug/deps/libowned_ttf_parser-b8d4ef16ec72928b.rlib: /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/lib.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/convert.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/owned.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/preparse.rs
+
+/home/lmurraykearney/Flocks/rust_practice/playing_around/target/debug/deps/owned_ttf_parser-b8d4ef16ec72928b.d: /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/lib.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/convert.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/owned.rs /home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/preparse.rs
+
+/home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/lib.rs:
+/home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/convert.rs:
+/home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/owned.rs:
+/home/lmurraykearney/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.19.0/src/preparse.rs:
